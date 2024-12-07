@@ -1,4 +1,4 @@
-package ereditarietà_1;
+package ereditarieta_1;
 
 public class Animale {
     public void faiIlVerso() {

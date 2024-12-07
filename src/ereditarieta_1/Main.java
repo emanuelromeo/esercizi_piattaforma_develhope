@@ -1,4 +1,4 @@
-package ereditarietà_1;
+package ereditarieta_1;
 
 // Scrivere un programma che contenga una classe chiamata Animale
 // ed un metodo chiamato faiIlVerso() che stampi il verso dell'animale.

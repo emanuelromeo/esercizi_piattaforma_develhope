@@ -1,4 +1,4 @@
-package ereditarietà_2;
+package ereditarieta_2;
 
 // Scrivere un programma che contenga una classe chiamata Forma
 // ed un metodo chiamato calcolaArea() che stampi l'area della forma.

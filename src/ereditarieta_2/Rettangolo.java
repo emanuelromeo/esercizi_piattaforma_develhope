@@ -1,4 +1,4 @@
-package ereditarietà_2;
+package ereditarieta_2;
 
 public class Rettangolo extends Forma {
     private double base, altezza;
